@@ -21,7 +21,7 @@ django-autocomplete-light==3.4.1
 djangorestframework==3.7.7
 django-split-settings==0.2.5
 celery==4.3.0
-django-celery-results==1.0.4
+django-celery-results==2.4.0
 django-user-agents==0.3.2
 redis==3.2.1
 django-filter==2.1.0
